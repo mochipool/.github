@@ -1,9 +1,7 @@
 <div align="center">
-
-# 🌌 Mochi Pool
-
-**Creating a reliable, simple, and delightful staking experience on Cardano.**
-
+  <img src="https://raw.githubusercontent.com/mochipool/assets/refs/heads/main/logo/render/logo_nobg.png" width="160" alt="Mochi Pool Logo" />
+  <h1>Mochi Stake Pool's Org</h1>
+  <p><em>Creating a reliable, simple, and delightful staking experience on Cardano.</em></p>
 </div>
 
 ---
