@@ -18,10 +18,10 @@ Our focus is simple: make the SPO experience **easier, reproducible, and enjoyab
 
 ## 🧩 Featured Projects
 
-| Project | Description | Status | CI |
-|:--------|:-------------|:--------|:------|
-| [**Cardano Forge Manager**](https://github.com/mochipool/cardano-forge-manager) | Automate node lifecycle management, logging, and deployment for SPOs. | ✅ Active | ![CI](https://github.com/mochipool/cardano-forge-manager/actions/workflows/ci.yml/badge.svg) |
-| [**SPO Workbench**](https://github.com/mochipool/workbench) | A reproducible, Nix-based environment bundling essential tools and scripts. | ✅ Active | ![CI](https://github.com/mochipool/workbench/actions/workflows/validate-nix.yml/badge.svg) |
+| Project | Description | Status | 
+|:--------|:-------------|:--------|
+| [**Cardano Forge Manager**](https://github.com/mochipool/cardano-forge-manager) | Automate node lifecycle management, logging, and deployment for SPOs. | ✅ Active |
+| [**SPO Workbench**](https://github.com/mochipool/workbench) | A reproducible, Nix-based environment bundling essential tools and scripts. | ✅ Active |
 
 
 ---
