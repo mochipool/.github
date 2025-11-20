@@ -22,6 +22,7 @@ Our focus is simple: make the SPO experience **easier, reproducible, and enjoyab
 |:--------|:-------------|:--------|
 | [**Cardano Forge Manager**](https://github.com/mochipool/cardano-forge-manager) | Automate node lifecycle management, logging, and deployment for SPOs. | ✅ Active |
 | [**SPO Workbench**](https://github.com/mochipool/workbench) | A reproducible, Nix-based environment bundling essential tools and scripts. | ✅ Active |
+| [**Helm Charts**](https://github.com/mochipool/helm-charts) | Helm Charts for Kubernetes-based deployments, from Mochipool. | ✅ Active |
 
 
 ---
